@@ -103,7 +103,7 @@ background: lightgray 50% / cover no-repeat;
 .card{
   position: absolute;
   z-index: -1;
-  left: 79%;
+     left: 73.8%;
   top: -5em;
 }
 .info{
